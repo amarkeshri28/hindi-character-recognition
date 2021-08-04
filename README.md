@@ -37,5 +37,5 @@ We have created as well as trained the model on a dataset containing ***VOWELS**
 
 ------------
 
-### Train Acuracy ~ 98%
-### Test Acuracy ~ 94%
+###  Train  Acuracy ~ 98%
+###  Test  Acuracy ~ 94%
